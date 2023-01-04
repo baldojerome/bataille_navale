@@ -5,7 +5,7 @@ Projet universitaire réalisé dans le cadre du cours sur les structures de donn
 Fonctionnement de l’application
 
 • La grille est de 5 X 5 et chaque joueur peut « cacher » 3 navires de 1 case
-chacun.\n
+chacun. 
 • La partie se termine lorsque les 3 navires ont été trouvés. (exemple
 d’exécution en fin de document)
 • La grille de l’ordinateur est générée au hasard
